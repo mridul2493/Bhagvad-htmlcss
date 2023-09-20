@@ -1,0 +1,55 @@
+#div1{
+    background-color: blueviolet;
+    padding: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 42px;
+}
+marquee{
+    color: red;
+}
+#div2{
+    padding: 9px;
+}
+#div3{
+    padding: 20px;
+    text-align: center;
+}
+#b1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+#b2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+#b3{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+#div4{
+    background-color: rgb(222,255,72);
+    padding: 60px;
+}
+#list{
+    color: green;
+}
+#div5{
+    padding: 20x;
+    background-color:blueviolet;
+}
+#p2{
+    color: white;
+}
+#email{
+    color: white;
+}
+#block1{
+    color: white;
+}
